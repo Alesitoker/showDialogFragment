@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">showDialog</string>
+    <string name="dialog_title">titulo</string>
+    <string name="dialog_message">mensaje</string>
+    <string name="dialog_possitiveButton">yes</string>
+    <string name="dialog_negativeButton">no</string>
+</resources>
